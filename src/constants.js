@@ -20,7 +20,7 @@ export const mapCategoryToTwitterImgUrl = {
 export const tweetConstants = {
   tweetBaseUrl : 'https://twitter.com/intent/tweet',
   hashTag : '人はなぜ生きるのか',
-  tweetUrl : 'https://humanlife.herokuapp.com/',
+  tweetUrl : 'https://hoture.github.io/humanlife/',
   myTwitterId : 'hoture6',
 }
 

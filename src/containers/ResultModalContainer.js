@@ -36,7 +36,7 @@ const mapStateToProps = state => {
   const tweetLink = getTweetLink(status, message)
 
   const category = getCategory(state.status)
-  const imgUrl = `/imgs/${category}.png`
+  const imgUrl = `imgs/${category}.png`
 
   return {
     isShowModal,

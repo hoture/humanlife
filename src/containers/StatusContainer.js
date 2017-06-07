@@ -8,9 +8,9 @@ const mapStateToProps = state => {
   const { isUpdating } = state.appState
 
   const category = getCategory(state.status)
-  let imgUrl = `/imgs/${category}.png`
+  let imgUrl = `imgs/${category}.png`
   if (isUpdating) {
-    imgUrl = '/imgs/hatena.png'
+    imgUrl = 'imgs/hatena.png'
   }
 
   const ageText = `年齢：${age}歳`
