@@ -1,0 +1,21 @@
+.workbuttons-col {
+  text-align: center;
+  padding: 20px;
+}
+
+.workbuttons-col .button {
+  font-size: 32px;
+}
+.work-button {
+  margin-right: 30px;
+}
+
+.fa-work {
+  color: #264a96;
+}
+.fa-play {
+  color: #b3b13d;
+}
+.fa-carrot {
+  color: #ee951e;
+}

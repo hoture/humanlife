@@ -1,0 +1,9 @@
+.app-div {
+  min-width: 500px;
+  max-width: 800px;
+}
+
+.game-div {
+  border-radius: 16px;
+  border: solid 1px #000000;
+}

@@ -1,0 +1,11 @@
+.finishbuttons-col .button {
+  font-size: 18px;
+}
+
+.finishbuttons-col {
+  padding: 20px;
+  text-align: center;
+}
+.newgame-button {
+  margin-right: 30px;
+}

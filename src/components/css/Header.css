@@ -1,0 +1,6 @@
+.header-col {
+  margin-bottom: 20px;
+}
+.header-col > p {
+  margin: 0;
+}

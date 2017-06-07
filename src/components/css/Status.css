@@ -1,0 +1,17 @@
+.status-div {
+}
+
+.status-info {
+  padding: 30px;
+}
+.status-info h3 {
+  margin-top: 40px;
+}
+
+.status-image-wrapper {
+  padding: 20px;
+}
+
+.status-message {
+  text-align: center;
+}
